@@ -6,15 +6,4 @@ export default StyleSheet.create({
   },
 
   countText: {
-    fontSize: 16,
-    paddingLeft: 15,
-    paddingRight: 15,
-    color: '#27AAE1',
-  },
-
-  count: {
-    minWidth: 40,
-    alignItems: 'center',
-    justifyContent: 'center',
-  }
-});
+ paddingLeft: 5, paddingRight: 5, color: '#27AAE1', }, count: { minWidth: 30, alignItems: 'center', justifyContent: 'center', } });
