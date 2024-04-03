@@ -103,7 +103,6 @@ Counter.defaultProps = {
   increment: 1,
   start: 0,
   min: 0,
-  max: 10,
 
   minusIcon: null,
   plusIcon: null,
